@@ -1,0 +1,133 @@
+/* styles.css */
+
+
+.carousel {
+    position: relative;
+    width: 100%;
+    height: 150%;
+  }
+
+.bd-placeholder-img {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+@media (min-width: 768px) 
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+
+  .h1.main-class {
+    text-align: center;
+    align-items: center;
+  }
+
+.b-example-divider {
+    width: 100%;
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.b-example-vr {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 100vh;
+}
+
+/* card camera */
+.col1 .btn {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    color: #333;
+    transition: all 0.3s ease;
+    align-items: center;
+  }
+  
+  .btn-group {
+    margin-top: auto;
+  }
+  
+/* card1 camera */
+.col-1{
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+.col-1 p{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* card2 camera */
+.col-2{
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+.col-2 p{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* card3 camera */
+.col-3{
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+.col-3 p{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* card4 camera */
+.col-4{
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+.col-4 p{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* card5 camera */
+.col-5{
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+.col-5 p{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* card6 camera */
+.col-6{
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+.col-6 p{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* card lensa */
+.colm{
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+}
+.colm p{
+    font-size: 16px;
+    font-weight: 350;
+}
+.colm btn{
+    text-align: center;
+}
+
